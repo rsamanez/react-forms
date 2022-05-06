@@ -1,7 +1,8 @@
 import React from 'react';
+import Form from './Forms';
 
 const App = () => (
-  <h1>Hola Mundo</h1>
+  <Form/>
 )
 
 export default App
